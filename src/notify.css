@@ -1,0 +1,21 @@
+.notificationDiv {
+  padding: 15% 35%;
+}
+
+.notificationIcon {
+  padding-left: 160px;
+  padding-bottom: 10px;
+}
+
+.notificationList {
+  max-width: 200;
+  background-color: lightblue;
+}
+
+.notificationItemText {
+  padding-left: 10px;
+}
+
+.notificationItemText:hover {
+  color: darkblue;
+}
